@@ -92,6 +92,25 @@ SECCIÓN 9–3 Método de la corriente en lazos
 SECCIÓN 9–4 Método del voltaje en nodos
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
 
+![image](https://user-images.githubusercontent.com/106253679/178649183-0f3c762c-0794-45f4-9e90-52934474fdd2.png)![image](https://user-images.githubusercontent.com/106253679/178649125-d8fef623-4fe8-44ee-8ac5-411f51b5ce22.png)
+
+![image](https://user-images.githubusercontent.com/106253679/178649192-d2e0bc10-2de6-4b87-99b2-721441a7dcbe.png)![image](https://user-images.githubusercontent.com/106253679/178649321-0dfd0e69-26e0-4faa-b88d-7edbb0fb9aa3.png)
+
+
+**VIDEO**
+
+https://www.youtube.com/watch?v=Gd21fR&t=360s
+
+CONCLUSIONES
+
+Con la resolucion de los ejercicios planteados se logro fortalecer los conocimientos mediante la aplicacion de la Ley de Ohm, notacion cientifica y una mejor comprension de los conceptos de voltaje,corriente y resistencia.
+
+**6.- Bibliografía:**
+
+Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
+
+
+
 
 
 
